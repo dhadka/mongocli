@@ -1,4 +1,5 @@
 ---
+#foo
 name: GO tests
 on:
   push:
